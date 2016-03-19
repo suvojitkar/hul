@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Material Design</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string name="nav_item_home">Home</string>
+    <string name="nav_item_friends">Notifications</string>
+    <string name="nav_item_notifications">My Account</string>
+
+    <array name="nav_drawer_icons">
+        <item>@drawable/home</item>
+        <item>@drawable/appsno</item>
+        <item>@drawable/user</item>
+
+    </array>
+    <!-- navigation drawer item labels  -->
+    <string-array name="nav_drawer_labels">
+        <item>@string/nav_item_home</item>
+        <item>@string/nav_item_friends</item>
+        <item>@string/nav_item_notifications</item>
+    </string-array>
+
+    <string name="title_messages">My Account</string>
+    <string name="title_friends">Notifications</string>
+    <string name="title_home">Home</string>
+</resources>
